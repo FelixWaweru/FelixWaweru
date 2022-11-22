@@ -1,3 +1,10 @@
+
+<div style="text-align:center">
+<img align="center" width="100%" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" />
+</div>
+
+<br>
+
 ## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 My name is **Felix**
@@ -13,6 +20,14 @@ I am a Software Engineer with a keen passion for computing technologies. I have 
 - BACKEND DEVELOPMENT - **Amplify, Firebase**
 - SYSTEM DESIGN AND ARCHITECTURE
 - BLOCKCHAIN - **Solidity**
+
+<br>
+
+❤️ LIKES
+- 🖥 Anything and everything computer or electronic
+- 📝 Writing: Check out my articles on [Medium](https://whyweru.medium.com/)
+- 🇯🇵 Anime
+- 🔎 Learn more about me on my [portfolio](https://felixwaweru.github.io/who-am-i)
 
 <br>
 
