@@ -16,6 +16,14 @@ I am a Software Engineer with a keen passion for computing technologies. I have 
 
 <br>
 
+❤️ LIKES
+- 🖥 Anything and everything computer or electronic
+- 📝 Writing: Check out my articles on [Medium](https://whyweru.medium.com/)
+- 🇯🇵 Anime
+- 🔎 Learn more about me on my [portfolio](https://felixwaweru.github.io/who-am-i)
+
+<br>
+
 ###  📫 Socials
 
 [![Twitter Badge](https://img.shields.io/badge/Whyweru-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
