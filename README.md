@@ -1,6 +1,6 @@
 
 <div style="text-align:center">
-<img align="center" width="100%" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" />
+<img align="center" width="20%" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" />
 </div>
 
 <br>
