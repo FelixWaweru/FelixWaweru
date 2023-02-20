@@ -33,13 +33,6 @@ I am a Software Engineer with a keen passion for computing technologies. I have 
 
 ###  📫 Socials
 
-[![Twitter Badge](https://img.shields.io/badge/Whyweru-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-)](https://twitter.com/whyweru) 
-
-
-[![Instagram Badge](https://img.shields.io/badge/Whyweru-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/whyweru/)
-
  [![Medium Badge](https://img.shields.io/badge/Whyweru-12100E?style=for-the-badge&logo=medium&logoColor=white
 )](https://whyweru.medium.com/)
 
