@@ -6,7 +6,7 @@ I am a Software Engineer with a keen passion for computing technologies. I have 
 
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=FelixWaweru&show_icons=true&theme=transparent" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=FelixWaweru&show_icons=true&theme=transparent&count_private=true" />
  <img class="img" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="20%" />
 </div>
 
