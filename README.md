@@ -12,13 +12,13 @@ I am a Software Engineer with a keen passion for computing technologies. I have 
 
 
 ###  📫 Socials
-<a href="https://whyweru.medium.com/">
+<a href="https://whyweru.medium.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Whyweru-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/felix-waweru-07a314a5/">
+<a href="https://www.linkedin.com/in/felix-waweru-07a314a5/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/FelixWaweru-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:wawerufelixprojects@gmail.com">
+<a href="mailto:wawerufelixprojects@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Wawerufelixprojects-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
