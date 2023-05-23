@@ -22,5 +22,8 @@ I am a Software Engineer with a keen passion for computing technologies. I have 
   <img align="center" src="https://img.shields.io/badge/Wawerufelixprojects-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+###  🕵🏽‍♂️ <sub><sup><sub><sup>Just tracking something. You can ignore me</sup></sub></sup></sub>
+[![HitCount](https://hits.dwyl.com/FelixWaweru/FelixWaweru/FelixWaweru.svg?style=flat-square)](http://hits.dwyl.com/FelixWaweru/FelixWaweru/FelixWaweru)
+
 
 
